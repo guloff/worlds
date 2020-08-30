@@ -80,11 +80,4 @@
 Энергетическая ценность - 130
 Время цикла - 144
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iUxUqP8MKuk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 https://www.youtube.com/watch?v=iUxUqP8MKuk
-
-https://youtu.be/iUxUqP8MKuk
-
-https://bit.ly/31kKfdK
